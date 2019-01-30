@@ -11,3 +11,9 @@ aside{
 	border:solid 4px black;
 	background-color: lightgrey;
 }
+
+ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
